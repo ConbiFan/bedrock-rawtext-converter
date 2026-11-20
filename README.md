@@ -45,7 +45,7 @@ If you have Python installed, you can run this tool for free.
     ````
 3. Run the application:
     ````bash
-    python main.py
+    python src/bedrock_rawtext_converter.py
     ````
 
 ## 📝 Usage Examples
